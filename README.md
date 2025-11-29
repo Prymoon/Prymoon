@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Konnichiwa!%20I'm%20Priyanshu&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" alt="Header"/>
 
+>My OG account is @Priyanshu84iya
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=aka+Prymon+%7C+Pry+Uchiha;Student+from+India+🇮🇳;Building+the+Future+with+Code!;Powered+by+Anime+%26+Coffee!+☕" alt="Typing SVG" />
 </a>
